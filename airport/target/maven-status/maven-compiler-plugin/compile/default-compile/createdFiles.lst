@@ -1,0 +1,5 @@
+com/example/airport/service/airportService.class
+com/example/airport/controller/airportController.class
+com/example/airport/AirportApplication.class
+com/example/airport/model/air.class
+com/example/airport/repository/airportRepository.class
